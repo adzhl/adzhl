@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ### 🎓 Dietetics Graduate Turned Aspiring Tech Professional  
-- *Currently studying Computer Science to merge my passion for science and technology!*  
+- Currently studying Computer Science to merge my passion for science and technology!
 
 ---
 
