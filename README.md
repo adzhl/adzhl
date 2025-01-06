@@ -4,7 +4,7 @@
 ---
 
 ### 🔧 Tech Toolbox:
-- Programming Languages: C, JavaScript, HTML, CSS, Shell
+- Programming Languages: `C`, `JavaScript`, `HTML`, `CSS`, `Shell`
 
 ---
 
