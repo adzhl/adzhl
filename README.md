@@ -1,7 +1,7 @@
 ### 🎓 From Dietetics to Tech – Merging my passion for science and coding!
 
 #### 🔧 Tech Stack:
-- `C`, `JavaScript`, `HTML`, `CSS`, `Shell`
+- `C`, `C++`, `JavaScript`, `HTML`, `CSS`, `Shell`
 
 
 #### 🌟 Future Goals:
