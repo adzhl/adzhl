@@ -5,9 +5,9 @@
 - Frameworks & Libraries: `Node.js`, `Fastify`, `React`, `MiniLibX`
 
 
-#### 🌟 Future Goals:
-- 🔬 Combine my expertise in nutrition with technology.  
-- 🤖 Use AI and data science to create personalized health solutions.
+#### 🌟 About Me:
+- Currently a student in 42 Kuala Lumpur, a really cool computer science school with a peer-to-peer learning environment!
+- Interested in combining my expertise in nutrition with tech
 
 📬  **Contact Me:** zahila.ad@gmail.com
 
