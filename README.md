@@ -19,6 +19,8 @@
 | [**Minishell**](https://github.com/adzhl/minishell) | A Simple Shell That Replicates Parts of Bash | `C` |
 | [**Philosophers**](https://github.com/adzhl/philosophers) | Simulation of the Famous Dining Philosophers Problem | `C` |
 | [**push_swap**](https://github.com/adzhl/push_swap) | Creating an Optimal Sorting Algorithm | `C` |
+| [**CPP Modules**](https://github.com/adzhl/42_cpp) | C++ Programming Concepts | `C++` |
+| [**so_long**](https://github.com/adzhl/so_long) | A Simple 2D Game | `C`, `MiniLibX` |
 
 📬  **Contact Me:** zahila.ad@gmail.com
 
