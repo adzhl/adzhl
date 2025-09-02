@@ -13,8 +13,8 @@
 | Project | Description | Technologies | Remarks |
 |-------------|-------------|-------------|-------------|
 | [**ft_transcendence**](https://github.com/ruisheng95/ft_transcendence) | Online Multiplayer Pong Game | `Typescript`, `Tailwind CSS`, `Node.js`, `Fastify`, `SQLite` |
-| [**Anonybara**](https://github.com/winniehhy/Hackybara) | AI-Powered PII Detection and Redaction Platform | `React`, `Node.js`, `Python`, `LLM(Gemma3)` | 2nd runner-up for Ambank Hacklab 2025 |
-| [**Medilink**](https://github.com/winniehhy/Medilink) | Hospital-Nursing Home Discharge Coordination Platform | `React`, `Node.js`, `PostgreSQL`, `InterSystems IRIS Vector Search` | Semi-finalist for NUS HealthHack Singapore 2025 |
+| [**Anonybara**](https://github.com/winniehhy/Hackybara) | AI-Powered PII Detection and Redaction Platform | `React`, `Node.js`, `Python`, `LLM(Gemma3)` | 2nd runner-up for [Ambank Hacklab 2025](https://www.instagram.com/p/DNAjPu5Tnie/) |
+| [**Medilink**](https://github.com/winniehhy/Medilink) | Hospital-Nursing Home Discharge Coordination Platform | `React`, `Node.js`, `PostgreSQL`, `InterSystems IRIS Vector Search` | Semi-finalist for [NUS HealthHack Singapore 2025](https://healthhack.sg/) |
 | [**Cub3D**](https://github.com/adzhl/Cub3D) | 3D Maze Game Inspired by Wolfenstein 3D | `C`, `MiniLibX` |
 | [**Minishell**](https://github.com/adzhl/minishell) | A Simple Shell That Replicates Parts of Bash | `C` |
 | [**Philosophers**](https://github.com/adzhl/philosophers) | Simulation of the Famous Dining Philosophers Problem | `C` |
