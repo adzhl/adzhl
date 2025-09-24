@@ -22,6 +22,7 @@
 | [**push_swap**](https://github.com/adzhl/push_swap) | Creating an Optimal Sorting Algorithm | `C` |
 | [**CPP Modules**](https://github.com/adzhl/42_cpp) | C++ Programming Concepts | `C++` |
 | [**so_long**](https://github.com/adzhl/so_long) | A Simple 2D Game | `C`, `MiniLibX` |
+| [**libft**](https://github.com/adzhl/libft) | A Library of C Functions | `C` |
 
 📬  **Contact Me:** zahila.ad@gmail.com
 
