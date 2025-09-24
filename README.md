@@ -12,17 +12,17 @@
 
 | Project | Description | Technologies | Remarks |
 |-------------|-------------|-------------|-------------|
-| [**ft_transcendence**](https://github.com/ruisheng95/ft_transcendence) | Online Multiplayer Pong Game | `Typescript`, `Tailwind CSS`, `Node.js`, `Fastify`, `SQLite` |
+| [**Ft_transcendence**](https://github.com/ruisheng95/ft_transcendence) | Online Multiplayer Pong Game | `Typescript`, `Tailwind CSS`, `Node.js`, `Fastify`, `SQLite` |
 | [**Anonybara**](https://github.com/winniehhy/Hackybara) | AI-Powered PII Detection and Redaction Platform | `React`, `Node.js`, `Python`, `LLM(Gemma3)` | 2nd runner-up for [Ambank Hacklab 2025](https://www.instagram.com/p/DNAjPu5Tnie/) |
 | [**Medilink**](https://github.com/winniehhy/Medilink) | Hospital-Nursing Home Discharge Coordination Platform | `Node.js`, `InterSystems IRIS ObjectScript`, `InterSystems IRIS Vector Search` | Semi-finalist for [NUS HealthHack Singapore 2025](https://healthhack.sg/) |
 | [**Cub3D**](https://github.com/adzhl/Cub3D) | 3D Maze Game Inspired by Wolfenstein 3D | `C`, `MiniLibX` |
 | [**Inception**](https://github.com/adzhl/inception) | Mini Web Infrastructure with Docker | `Docker`, `Docker Compose`, `Debian`, `NGINX`, `MariaDB`, `WordPress`, `PHP`, `SSL/TLS` |
 | [**Minishell**](https://github.com/adzhl/minishell) | A Simple Shell That Replicates Parts of Bash | `C` |
 | [**Philosophers**](https://github.com/adzhl/philosophers) | Simulation of the Famous Dining Philosophers Problem | `C` |
-| [**push_swap**](https://github.com/adzhl/push_swap) | Creating an Optimal Sorting Algorithm | `C` |
+| [**Push_swap**](https://github.com/adzhl/push_swap) | Creating an Optimal Sorting Algorithm | `C` |
 | [**CPP Modules**](https://github.com/adzhl/42_cpp) | C++ Programming Concepts | `C++` |
-| [**so_long**](https://github.com/adzhl/so_long) | A Simple 2D Game | `C`, `MiniLibX` |
-| [**libft**](https://github.com/adzhl/libft) | A Library of C Functions | `C` |
+| [**So_long**](https://github.com/adzhl/so_long) | A Simple 2D Game | `C`, `MiniLibX` |
+| [**Libft**](https://github.com/adzhl/libft) | A Library of C Functions | `C` |
 
 📬  **Contact Me:** zahila.ad@gmail.com
 
